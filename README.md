@@ -1,2 +1,0 @@
-# flushpoint-legal
-Privacy Policy
